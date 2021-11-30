@@ -6,8 +6,6 @@
 
 **Pratinjau** :
 
-![Pratinjau](img/Covidweb.gif)
-
-**Lihat Hasil** : [Link](https://mashumabduljabbar.github.io/Portfolio/Website-Covid-19)
+<img src="img/Covidweb.gif" width="100%" alt="Pratinjau">
 
 
