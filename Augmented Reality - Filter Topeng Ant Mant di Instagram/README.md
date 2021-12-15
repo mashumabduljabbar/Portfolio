@@ -2,7 +2,7 @@
 
 **Kategori** : Tampilan
 
-**Instruksi untuk peninjau** : Pada efek ini anda akan mendapatkan tampilan Topeng Ant Man dan Perubahan Suara
+**Instruksi untuk peninjau** : Pada efek ini anda akan mendapatkan tampilan Topeng Ant Man dan Perubahan Suara. Klik pada layar untuk merubah topeng dari Ant Man ke Black Panther.
 
 **Pratinjau** :
 
